@@ -1,0 +1,1255 @@
+﻿Log file open, 04/26/21 16:03:34
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Crossy_Road
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.261133
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 1700X Eight-Core Processor         , GPU: AMD Radeon (TM) RX 580
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.26-23.03.35:447][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.26-23.03.35:447][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.26-23.03.35:447][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Engine.ini]
+[2021.04.26-23.03.35:447][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.26-23.03.35:447][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Engine.ini]
+[2021.04.26-23.03.35:447][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Engine.ini]
+[2021.04.26-23.03.35:447][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.26-23.03.35:447][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.26-23.03.35:447][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.26-23.03.35:447][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.26-23.03.35:447][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.26-23.03.35:447][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.26-23.03.35:447][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.26-23.03.35:447][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.26-23.03.35:447][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.26-23.03.35:447][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.26-23.03.35:447][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.26-23.03.35:447][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Engine.ini]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.04.26-23.03.35:448][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Engine.ini]
+[2021.04.26-23.03.35:448][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Engine.ini]
+[2021.04.26-23.03.35:461][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.26-23.03.35:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.26-23.03.35:462][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.26-23.03.35:462][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.26-23.03.35:462][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.26-23.03.35:462][  0]LogHAL: Display: Platform has ~ 16 GB [17067761664 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.26-23.03.35:462][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.26-23.03.35:462][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.26-23.03.35:463][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Scalability.ini]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.26-23.03.35:464][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.26-23.03.35:465][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.26-23.03.35:465][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.26-23.03.35:465][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.26-23.03.35:465][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Config/Windows/Engine.ini]
+[2021.04.26-23.03.35:465][  0]LogInit: Computer: ANAHID-PC
+[2021.04.26-23.03.35:465][  0]LogInit: User: anahi
+[2021.04.26-23.03.35:465][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.04.26-23.03.35:465][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.26-23.03.35:465][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.04.26-23.03.35:465][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.26-23.03.35:465][  0]LogMemory: Process Physical Memory: 141.68 MB used, 141.68 MB peak
+[2021.04.26-23.03.35:465][  0]LogMemory: Process Virtual Memory: 130.53 MB used, 130.53 MB peak
+[2021.04.26-23.03.35:465][  0]LogMemory: Physical Memory: 4295.42 MB used,  11981.67 MB free, 16277.09 MB total
+[2021.04.26-23.03.35:465][  0]LogMemory: Virtual Memory: 134205600.00 MB used,  12125.05 MB free, 134217728.00 MB total
+[2021.04.26-23.03.35:471][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.26-23.03.35:497][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.26-23.03.35:498][  0]LogInit: Using OS detected language (en-US).
+[2021.04.26-23.03.35:498][  0]LogInit: Using OS detected locale (en-US).
+[2021.04.26-23.03.35:507][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.26-23.03.35:720][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.26-23.03.35:732][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.26-23.03.35:764][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.26-23.03.35:764][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.26-23.03.35:983][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2021.04.26-23.03.35:983][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.26-23.03.35:983][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.26-23.03.35:983][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.26-23.03.36:028][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) RX 580' (Feature Level 11_0)
+[2021.04.26-23.03.36:028][  0]LogD3D11RHI:       8171/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2021.04.26-23.03.36:030][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.26-23.03.36:030][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.26-23.03.36:030][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.26-23.03.36:039][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.26-23.03.36:039][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2021.04.26-23.03.36:039][  0]LogWindows: EnumDisplayDevices:
+[2021.04.26-23.03.36:040][  0]LogWindows:    0. 'AMD Radeon (TM) RX 580' (P:1 D:1)
+[2021.04.26-23.03.36:040][  0]LogWindows:    1. 'AMD Radeon (TM) RX 580' (P:0 D:1)
+[2021.04.26-23.03.36:040][  0]LogWindows:    2. 'AMD Radeon (TM) RX 580' (P:0 D:0)
+[2021.04.26-23.03.36:041][  0]LogWindows:    3. 'AMD Radeon (TM) RX 580' (P:0 D:0)
+[2021.04.26-23.03.36:041][  0]LogWindows:    4. 'AMD Radeon (TM) RX 580' (P:0 D:0)
+[2021.04.26-23.03.36:041][  0]LogWindows:    5. 'AMD Radeon (TM) RX 580' (P:0 D:0)
+[2021.04.26-23.03.36:042][  0]LogWindows:    6. 'AMD Radeon (TM) RX 580' (P:0 D:0)
+[2021.04.26-23.03.36:042][  0]LogWindows:    7. 'AMD Radeon (TM) RX 580' (P:0 D:0)
+[2021.04.26-23.03.36:042][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2021.04.26-23.03.36:042][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) RX 580
+[2021.04.26-23.03.36:042][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.8.3 (internal:27.20.12027.1001, unified:27.20.12027.1001)
+[2021.04.26-23.03.36:042][  0]LogD3D11RHI:      Driver Date: 8-26-2020
+[2021.04.26-23.03.36:042][  0]LogRHI: Texture pool is 5182 MB (70% of 7403 MB)
+[2021.04.26-23.03.36:109][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.26-23.03.36:109][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.26-23.03.36:109][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.26-23.03.36:122][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2021.04.26-23.03.36:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.26-23.03.36:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.26-23.03.36:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.26-23.03.36:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.26-23.03.36:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.26-23.03.36:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.26-23.03.36:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.26-23.03.36:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.26-23.03.36:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.26-23.03.36:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.26-23.03.36:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.26-23.03.36:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.26-23.03.36:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.26-23.03.36:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.26-23.03.36:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.26-23.03.36:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.26-23.03.36:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.26-23.03.36:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.26-23.03.36:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.26-23.03.36:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.26-23.03.36:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.26-23.03.36:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.26-23.03.36:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.04.26-23.03.36:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.04.26-23.03.36:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.04.26-23.03.36:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.04.26-23.03.36:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.26-23.03.36:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.26-23.03.36:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.26-23.03.36:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.26-23.03.36:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.26-23.03.36:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.26-23.03.36:729][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.26-23.03.36:737][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.26-23.03.36:805][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.04.26-23.03.36:805][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/Intermediate/Shaders/WorkingDirectory/10244/).
+[2021.04.26-23.03.36:805][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/anahi/AppData/Local/Temp/UnrealShaderWorkingDir/528F5083447CA6BC4A61EB80AA01A049/'.
+[2021.04.26-23.03.36:805][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.26-23.03.36:805][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.26-23.03.37:713][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.26-23.03.37:782][  0]LogDerivedDataCache: Loaded boot cache 0.07s 81MB C:/Users/anahi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.26-23.03.37:782][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/anahi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.04.26-23.03.37:782][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.26-23.03.37:782][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.26-23.03.37:782][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.26-23.03.37:782][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.26-23.03.37:796][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.26-23.03.37:797][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.26-23.03.37:797][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.26-23.03.37:809][  0]LogDerivedDataCache: Speed tests for C:/Users/anahi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.04.26-23.03.37:809][  0]LogDerivedDataCache: Display: Performance to C:/Users/anahi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=247.27MBs, RandomWriteSpeed=110.93MBs. Assigned SpeedClass 'Local'
+[2021.04.26-23.03.37:811][  0]LogDerivedDataCache: Using Local data cache path C:/Users/anahi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.26-23.03.37:811][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.26-23.03.37:811][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.26-23.03.37:867][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.26-23.03.37:867][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.26-23.03.37:890][  0]LogAssetRegistry: FAssetRegistry took 0.0038 seconds to start up
+[2021.04.26-23.03.38:165][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.26-23.03.38:165][  0]LogInit: Active device profile: [00000257B4543600][00000257AA751B80 49] Windows
+[2021.04.26-23.03.38:165][  0]LogInit: Profiles: [00000257B4543600][00000257AA751B80 49] Windows, [00000257B453CB00][00000257B3D0FD00 49] WindowsNoEditor, [00000257B4540A00][00000257B3D121C0 49] WindowsServer, [00000257B453F200][00000257B3D36340 49] WindowsClient, [00000257B4542F00][00000257B3D3A4C0 49] IOS, [00000257B453D400][00000257B3D3E640 49] iPadAir, [00000257B4541200][00000257B3D427C0 49] iPadAir2, [00000257B4510C00][00000257B3D4AA80 49] IPadPro, [00000257B4510D00][00000257B3D46AC0 49] iPadAir3, [00000257B4542A00][00000257B3D4EC40 49] iPadAir4, [00000257B4513B00][00000257B3D52DC0 49] iPadMini2, [00000257B4541600][00000257B3D56F40 49] iPadMini3, [00000257B4512100][00000257B3D870C0 49] iPadMini4, [00000257B4543900][00000257B3D8B240 49] iPadMini5, [00000257B453F400][00000257B3D93500 49] iPhone6, [00000257B453F300][00000257B3D8F540 49] iPodTouch6, [00000257B4510F00][00000257B3D97780 49] iPhone7, [00000257B4513F00][00000257AA7557C0 49] iPodTouch7, [00000257B453FC00][00000257B3D9B900 49] iPhone5S, [00000257B4512E00][00000257B3DA3A80 49] iPhone6Plus, [00000257B453FB00][00000257B3DA7C00 49] iPhone6S, [00000257B4513200][00000257B3DAA0C0 49] iPhone6SPlus, [00000257B453C300][00000257B3DAE240 49] iPhone7Plus, [00000257B4511700][00000257B3DB23C0 49] iPhoneSE, [00000257B453F500][00000257B3DB6540 49] iPhone8, [00000257B4510A00][00000257B3DBA6C0 49] iPhone8Plus, [00000257B453E600][00000257B3DBE840 49] iPhoneX, [00000257B4511C00][00000257B3DC29C0 49] iPhoneXS, [00000257B453C100][00000257B3DC6B40 49] iPhoneXSMax, [00000257B4512000][00000257B3DCACC0 49] iPhoneXR, [00000257B453FD00][00000257B3DCEE40 49] iPhone11, [00000257B4510800][00000257B3DD2FC0 49] iPhone11Pro, [00000257B453E700][00000257B3DD7140 49] iPhone11ProMax, [00000257B4513700][00000257B3DDB2C0 49] iPhoneSE2, [00000257B453C700][00000257B3DDF440 49] iPhone12Mini, [00000257B4512500][00000257B3DE35C0 49] iPhone12, [00000257B453E500][00000257B3D9F700 49] iPhone12Pro, [00000257B4513100][00000257B3DE7840 49] iPhone12ProMax, [00000257B453ED00][00000257B3DEB980 49] iPadPro105, [00000257B4510600][00000257B4E01AC0 49] iPadPro129, [00000257B453E800][00000257B4E09C40 49] iPadPro97, [00000257B4511000][00000257B4E0C100 49] iPadPro2_129, [00000257B453E300][00000257B4E10280 49] iPad5, [00000257B4512F00][00000257B4E14400 49] iPad6, [00000257B453E900][00000257B4E18580 49] iPad7, [00000257B4510500][00000257B4E1C700 49] iPad8, [00000257B453DA00][00000257B4E20880 49] iPadPro11, [00000257B4512B00][00000257B4E24A00 49] iPadPro2_11, [00000257B453F100][00000257B4E28B80 49] iPadPro3_129, [00000257B4510E00][00000257B4E2CD00 49] iPadPro4_129, [00000257B453C200][00000257B4E30E80 49] AppleTV, [00000257B4512200][00000257B4E35000 49] AppleTV4K, [00000257B453FF00][00000257B4E39180 49] TVOS, [00000257B4512600][00000257B4E3D300 49] Mac, [00000257B453D300][00000257B4E41480 49] MacClient, [00000257B4513800][00000257B4E45600 49] MacNoEditor, [00000257B453D900][00000257B4E05740 49] MacServer, [00000257B4511900][00000257B4E49880 49] Linux, [00000257B453C800][00000257B4E4D9C0 49] LinuxNoEditor, [00000257B4540700][00000257B4E51B00 49] LinuxAArch64NoEditor, [00000257B45BC300][00000257B4E59C80 49] LinuxClient, [00000257B4542000][00000257B4E5C140 49] LinuxAArch64Client, [00000257B45BC400][00000257B4E602C0 49] LinuxServer, [00000257B4541000][00000257B4E64440 49] LinuxAArch64Server, [00000257B45BC100][00000257B4E685C0 49] Android, [00000257B4543B00][00000257B4E6C740 49] Android_Low, [00000257B45BD700][00000257B4E708C0 49] Android_Mid, [00000257B4543000][00000257B4E74A40 49] Android_High, [00000257B45BD800][00000257B4E78BC0 49] Android_Default, [00000257B4540B00][00000257B4E7CD40 49] Android_Adreno4xx, [00000257B45BD100][00000257B4E80EC0 49] Android_Adreno5xx_Low, [00000257B4540300][00000257B4E85040 49] Android_Adreno5xx, [00000257B45BD200][00000257B4E891C0 49] Android_Adreno6xx, [00000257B4543800][00000257B4E8D340 49] Android_Adreno6xx_Vulkan, [00000257B45BCF00][00000257B4E914C0 49] Android_Mali_T6xx, [00000257B4542100][00000257B4E95640 49] Android_Mali_T7xx, [00000257B45BCC00][00000257B4E997C0 49] Android_Mali_T8xx, [00000257B453C400][00000257B4E55900 49] Android_Mali_G71, [00000257B4513400][00000257B4E9DA40 49] Android_Mali_G72, [00000257B453DE00][00000257B4EA1B80 49] Android_Mali_G72_Vulkan, [00000257B4510300][00000257B4EA9D00 49] Android_Mali_G76, [00000257B453D800][00000257B4EAC1C0 49] Android_Mali_G76_Vulkan, [00000257B4511A00][00000257B4EB0340 49] Android_Mali_G77, [00000257B453EF00][00000257B4EB44C0 49] Android_Mali_G77_Vulkan, [00000257B4512C00][00000257B4EB8640 49] Android_Vulkan_SM5, [00000257B453D100][00000257B4EBC7C0 49] Android_PowerVR_G6xxx, [00000257B4512700][00000257B4EC0940 49] Android_PowerVR_GT7xxx, [00000257B453C900][00000257B4EC4AC0 49] Android_PowerVR_GE8xxx, [00000257B4512300][00000257B4EC8C40 49] Android_PowerVR_GM9xxx, [00000257B453DD00][00000257B4ECCDC0 49] Android_PowerVR_GM9xxx_Vulkan, [00000257B4511F00][00000257B4ED0F40 49] Android_TegraK1, [00000257B453D000][00000257B4ED50C0 49] Android_Unknown_Vulkan, [00000257B4511600][00000257B4ED9240 49] Lumin, [00000257B453D600][00000257B4EDD3C0 49] Lumin_Desktop, [00000257B45BCA00][00000257B4EE1540 49] HoloLens, 
+[2021.04.26-23.03.38:278][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.26-23.03.38:278][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.26-23.03.38:278][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.26-23.03.38:278][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.26-23.03.38:278][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.26-23.03.38:310][  0]LogNetVersion: Crossy_Road 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 155479749)
+[2021.04.26-23.03.38:779][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.04.26-23.03.38:869][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.089177 seconds
+[2021.04.26-23.03.38:880][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.04.26-23.03.38:880][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.04.26-23.03.38:880][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.26-23.03.39:284][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.26-23.03.39:289][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.26-23.03.39:534][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.26-23.03.39:556][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.26-23.03.39:556][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.26-23.03.39:635][  0]SourceControl: Source control is disabled
+[2021.04.26-23.03.39:635][  0]SourceControl: Source control is disabled
+[2021.04.26-23.03.39:643][  0]SourceControl: Source control is disabled
+[2021.04.26-23.03.39:650][  0]SourceControl: Source control is disabled
+[2021.04.26-23.03.39:658][  0]SourceControl: Source control is disabled
+[2021.04.26-23.03.39:661][  0]LogUProjectInfo: Found projects:
+[2021.04.26-23.03.39:786][  0]LogCollectionManager: Loaded 0 collections in 0.002259 seconds
+[2021.04.26-23.03.39:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Collections/' took 0.00s
+[2021.04.26-23.03.39:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Content/Developers/anahi/Collections/' took 0.00s
+[2021.04.26-23.03.39:812][  0]LogFileCache: Scanning file cache for directory 'C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Content/Collections/' took 0.00s
+[2021.04.26-23.03.39:812][  0]LogOcInput: OculusInput pre-init called
+[2021.04.26-23.03.40:039][  0]LogEngine: Initializing Engine...
+[2021.04.26-23.03.40:102][  0]LogHMD: Failed to initialize OpenVR with code 119
+[2021.04.26-23.03.40:102][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.26-23.03.40:103][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.26-23.03.40:216][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.26-23.03.40:226][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.26-23.03.40:242][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.04.26-23.03.40:246][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.04.26-23.03.40:246][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.04.26-23.03.40:246][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.26-23.03.40:246][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.26-23.03.40:246][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.26-23.03.40:246][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.26-23.03.40:246][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.26-23.03.40:246][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.26-23.03.40:246][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.26-23.03.40:246][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.26-23.03.40:247][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.26-23.03.40:247][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.26-23.03.40:267][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.26-23.03.40:267][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.26-23.03.40:548][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.04.26-23.03.40:551][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.26-23.03.40:553][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.26-23.03.40:553][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.26-23.03.40:554][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.26-23.03.40:554][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.26-23.03.40:554][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.26-23.03.40:556][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.26-23.03.40:556][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.26-23.03.40:556][  0]LogInit: FAudioDevice initialized.
+[2021.04.26-23.03.40:556][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.04.26-23.03.40:556][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.26-23.03.40:632][  0]LogDerivedDataCache: Saved boot cache 0.08s 81MB C:/Users/anahi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.26-23.03.40:633][  0]LogInit: Texture streaming: Enabled
+[2021.04.26-23.03.40:647][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.04.26-23.03.40:651][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.26-23.03.40:651][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.26-23.03.40:653][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.26-23.03.40:688][  0]LogInit: Transaction tracking system initialized
+[2021.04.26-23.03.40:709][  0]BlueprintLog: New page: Editor Load
+[2021.04.26-23.03.40:782][  0]LocalizationService: Localization service is disabled
+[2021.04.26-23.03.40:808][  0]TimingProfiler: Initialize
+[2021.04.26-23.03.40:808][  0]TimingProfiler: OnSessionChanged
+[2021.04.26-23.03.40:808][  0]LoadingProfiler: Initialize
+[2021.04.26-23.03.40:808][  0]LoadingProfiler: OnSessionChanged
+[2021.04.26-23.03.40:808][  0]NetworkingProfiler: Initialize
+[2021.04.26-23.03.40:808][  0]NetworkingProfiler: OnSessionChanged
+[2021.04.26-23.03.40:808][  0]MemoryProfiler: Initialize
+[2021.04.26-23.03.40:809][  0]MemoryProfiler: OnSessionChanged
+[2021.04.26-23.03.40:960][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.04.26-23.03.40:960][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.26-23.03.41:126][  0]LogFileCache: Scanning file cache for directory 'C:/Users/anahi/Documents/Unreal Projects/Crossy_Road/Content/' took 0.00s
+[2021.04.26-23.03.41:274][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.04.26-23.03.41:278][  0]SourceControl: Source control is disabled
+[2021.04.26-23.03.41:278][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.682
+[2021.04.26-23.03.41:278][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.26-23.03.41:279][  0]LightingResults: New page: Lighting Build
+[2021.04.26-23.03.41:279][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.26-23.03.41:280][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.26-23.03.41:280][  0]MapCheck: New page: Map Check
+[2021.04.26-23.03.41:280][  0]LightingResults: New page: Lighting Build
+[2021.04.26-23.03.41:286][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.04.26-23.03.41:351][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.04.26-23.03.41:357][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.04.26-23.03.41:358][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.04.26-23.03.41:363][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.26-23.03.41:369][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.04.26-23.03.41:369][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.26-23.03.41:370][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.214ms to complete.
+[2021.04.26-23.03.41:370][  0]LogFileHelpers: Loading map 'Template_Default' took 0.091
+[2021.04.26-23.03.41:372][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.775
+[2021.04.26-23.03.41:569][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-23.03.41:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-23.03.41:583][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-23.03.41:590][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-23.03.41:627][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0122 seconds. Added 3601 classes and 859 folders.
+[2021.04.26-23.03.41:634][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.26-23.03.41:648][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.26-23.03.41:648][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:648][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.26-23.03.41:648][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.04.26-23.03.41:659][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.26-23.03.41:659][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:659][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.26-23.03.41:659][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.04.26-23.03.41:666][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.26-23.03.41:666][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:666][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.26-23.03.41:666][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.04.26-23.03.41:675][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.26-23.03.41:675][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:675][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.26-23.03.41:675][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.04.26-23.03.41:683][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.26-23.03.41:683][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:683][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.26-23.03.41:683][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.04.26-23.03.41:690][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.26-23.03.41:690][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:690][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.26-23.03.41:690][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.04.26-23.03.41:698][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.26-23.03.41:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.26-23.03.41:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.04.26-23.03.41:706][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.26-23.03.41:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.26-23.03.41:706][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.04.26-23.03.41:715][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.26-23.03.41:715][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:715][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.26-23.03.41:715][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.04.26-23.03.41:723][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.26-23.03.41:723][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:723][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.26-23.03.41:723][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.04.26-23.03.41:730][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.26-23.03.41:730][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.26-23.03.41:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.04.26-23.03.41:738][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.26-23.03.41:738][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:738][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.26-23.03.41:738][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.04.26-23.03.41:745][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.26-23.03.41:745][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:745][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.26-23.03.41:745][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.04.26-23.03.41:752][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.26-23.03.41:752][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:752][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.26-23.03.41:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.04.26-23.03.41:760][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.26-23.03.41:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.26-23.03.41:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.04.26-23.03.41:767][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.26-23.03.41:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.26-23.03.41:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2021.04.26-23.03.41:775][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.26-23.03.41:775][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:775][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.26-23.03.41:775][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.04.26-23.03.41:782][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.26-23.03.41:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.26-23.03.41:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.04.26-23.03.41:790][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.26-23.03.41:790][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:790][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.26-23.03.41:790][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2021.04.26-23.03.41:801][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.26-23.03.41:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.26-23.03.41:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.04.26-23.03.41:809][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.26-23.03.41:809][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:809][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.26-23.03.41:809][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2021.04.26-23.03.41:816][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.26-23.03.41:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.26-23.03.41:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2021.04.26-23.03.41:824][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.26-23.03.41:824][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:824][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.26-23.03.41:824][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2021.04.26-23.03.41:831][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.26-23.03.41:831][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:831][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.26-23.03.41:831][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
+[2021.04.26-23.03.41:839][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.26-23.03.41:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.26-23.03.41:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000121
+[2021.04.26-23.03.41:846][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.26-23.03.41:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.26-23.03.41:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.26-23.03.41:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000125
+[2021.04.26-23.03.42:086][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.26-23.03.42:090][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.04.26-23.03.42:218][  0]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.03.42:246][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.26-23.03.42:248][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.26-23.03.42:261][  0]LogSlate: Took 0.007392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.26-23.03.42:473][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2021.04.26-23.03.42:657][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.04.26-23.03.42:657][  0]LogLoad: (Engine Initialization) Total time: 9.06 seconds
+[2021.04.26-23.03.42:657][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.26-23.03.42:657][  0]LogInit: First time updating LLM stats...
+[2021.04.26-23.03.42:695][  0]LogAssetRegistry: Asset discovery search completed in 4.8066 seconds
+[2021.04.26-23.03.42:696][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.04.26-23.03.42:724][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.26-23.03.43:634][107]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.07.54:509][153]LogSlate: Took 0.007382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.26-23.07.55:807][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.04.26-23.07.55:812][303]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.07.55:813][303]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.26-23.07.55:941][303]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/level.level
+[2021.04.26-23.07.55:942][303]Cmd: MAP LOAD FILE="../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/Content/Maps/level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.26-23.07.55:942][303]LightingResults: New page: Lighting Build
+[2021.04.26-23.07.55:942][303]LoadErrors: New page: Loading map: level.umap
+[2021.04.26-23.07.55:942][303]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.04.26-23.07.55:942][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.26-23.07.55:942][303]MapCheck: New page: Map Check
+[2021.04.26-23.07.55:942][303]LightingResults: New page: Lighting Build
+[2021.04.26-23.07.55:946][303]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.26-23.07.55:948][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.04.26-23.07.55:948][303]LogAudio: Display: Audio Device (ID: 1) registered with world 'level'.
+[2021.04.26-23.07.56:024][303]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.26-23.07.56:024][303]LogAIModule: Creating AISystem for world level
+[2021.04.26-23.07.56:030][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.26-23.07.56:038][303]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.26-23.07.56:038][303]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.254ms to complete.
+[2021.04.26-23.07.56:038][303]LogFileHelpers: Loading map 'level' took 0.097
+[2021.04.26-23.07.58:323][570]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.26-23.07.58:330][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.26-23.07.58:330][570]PIE: New page: PIE session: level (Apr 26, 2021, 9:07:58 AM)
+[2021.04.26-23.07.58:332][570]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.26-23.07.58:333][570]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.26-23.07.58:333][570]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_level
+[2021.04.26-23.07.58:336][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002386s)
+[2021.04.26-23.07.58:337][570]LogAIModule: Creating AISystem for world level
+[2021.04.26-23.07.58:337][570]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2021.04.26-23.07.58:337][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/level.level to /Game/Maps/UEDPIE_0_level.level (0.004064s)
+[2021.04.26-23.07.58:342][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.04.26-23.07.58:342][570]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.26-23.07.58:342][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.26-23.07.58:342][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.26-23.07.58:342][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.26-23.07.58:342][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.26-23.07.58:342][570]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.26-23.07.58:342][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.26-23.07.58:342][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.26-23.07.58:342][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.26-23.07.58:343][570]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.26-23.07.58:343][570]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.26-23.07.58:346][570]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.26-23.07.58:346][570]LogAudioMixer: Display: 1: FrontRight
+[2021.04.26-23.07.58:436][570]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.04.26-23.07.58:437][570]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.26-23.07.58:437][570]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.26-23.07.58:437][570]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.26-23.07.58:437][570]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.26-23.07.58:437][570]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.26-23.07.58:437][570]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.26-23.07.58:454][570]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.26-23.07.58:454][570]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.26-23.07.58:454][570]LogInit: FAudioDevice initialized.
+[2021.04.26-23.07.58:454][570]LogAudio: Display: Audio Device (ID: 2) registered with world 'level'.
+[2021.04.26-23.07.58:465][570]LogLoad: Game class is 'GM_Tutorial_BP_C'
+[2021.04.26-23.07.58:466][570]LogWorld: Bringing World /Game/Maps/UEDPIE_0_level.level up for play (max tick rate 0) at 2021.04.26-16.07.58
+[2021.04.26-23.07.58:467][570]LogWorld: Bringing up level for play took: 0.000560
+[2021.04.26-23.07.58:467][570]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.04.26-23.07.58:472][570]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.04.26-23.07.58:475][570]PIE: Server logged in
+[2021.04.26-23.07.58:476][570]PIE: Play in editor total start time 0.148 seconds.
+[2021.04.26-23.09.50:709][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-23.09.50:709][871]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_level
+[2021.04.26-23.09.50:710][871]LogWorld: UWorld::CleanupWorld for level, bSessionEnded=true, bCleanupResources=true
+[2021.04.26-23.09.50:710][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.26-23.09.50:717][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.26-23.09.50:719][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.26-23.09.50:722][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.26-23.09.50:723][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.26-23.09.50:724][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.26-23.09.50:744][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.04.26-23.09.50:783][873]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.04.26-23.12.27:416][886]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.12.27:446][886]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anahi\Desktop\models\environment\grass\grass_texture.png)
+[2021.04.26-23.12.27:454][886]LogTexture: Display: Building textures: grass_texture (AutoDXT, 1024X512)
+[2021.04.26-23.12.27:481][886]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\anahi\Desktop\models\environment\grass\grass_model.obj)
+[2021.04.26-23.12.27:504][886]LogFbx: Loading FBX Scene from C:\Users\anahi\Desktop\models\environment\grass\grass_model.obj
+[2021.04.26-23.12.27:511][886]LogFbx: FBX Scene Loaded Succesfully
+[2021.04.26-23.12.27:577][886]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.12.34:051][886]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.04.26-23.12.34:080][886]LogStaticMesh: Building static mesh grass_model...
+[2021.04.26-23.12.34:086][886]LogStaticMesh: Built static mesh [0.01s] /Game/grass_model.grass_model
+[2021.04.26-23.12.34:096][886]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.04.26-23.12.34:149][886]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.12.34:223][886]LogSlate: Took 0.009652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.26-23.12.36:053][104]LogSlate: Window 'Message Log' being destroyed
+[2021.04.26-23.12.36:057][104]LogSlate: Window 'Message Log' being destroyed
+[2021.04.26-23.12.40:141][508]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.12.40:219][512]LogActorFactory: Actor Factory created grass_model
+[2021.04.26-23.12.41:692][687]LogActorFactory: Actor Factory created grass_model
+[2021.04.26-23.12.45:176][ 15]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.12.46:164][121]LogMaterial: Display: Missing cached shader map for material grass_texture_Mat, compiling. 
+[2021.04.26-23.12.46:208][121]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.12.46:216][121]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2021.04.26-23.12.46:216][121]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.04.26-23.12.46:216][121]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.04.26-23.12.46:216][121]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.04.26-23.12.46:216][121]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.04.26-23.12.46:216][121]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2021.04.26-23.12.49:350][314]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.26-23.13.00:259][588]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.26-23.13.00:837][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_model)
+[2021.04.26-23.13.03:730][996]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.26-23.13.19:225][312]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.21:586][521]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.22:367][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.04.26-23.13.22:412][599]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.24:157][599]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.26-23.13.24:178][599]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/grass_texture_Mat.grass_texture_Mat
+[2021.04.26-23.13.24:180][599]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.24:579][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.26-23.13.28:880][961]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.26-23.13.29:260][  5]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (grass_model)
+[2021.04.26-23.13.29:777][ 62]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (grass_model)
+[2021.04.26-23.13.29:791][ 62]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.30:425][117]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.30:503][120]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.30:537][121]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.30:594][125]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.30:683][127]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.32:451][253]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.33:418][327]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.34:897][486]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.26-23.13.35:839][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_model)
+[2021.04.26-23.13.36:140][626]Cmd: DELETE
+[2021.04.26-23.13.36:140][626]Cmd: ACTOR DELETE
+[2021.04.26-23.13.36:149][626]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-23.13.36:155][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.04.26-23.13.36:157][626]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.04.26-23.13.37:195][730]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.37:276][735]LogActorFactory: Actor Factory created grass_model
+[2021.04.26-23.13.39:013][942]LogActorFactory: Actor Factory created grass_model
+[2021.04.26-23.13.40:263][ 57]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.40:888][122]LogMaterial: Display: Missing cached shader map for material grass_texture_Mat, compiling. 
+[2021.04.26-23.13.40:899][122]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.40:944][123]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2021.04.26-23.13.40:945][123]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.04.26-23.13.40:945][123]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.04.26-23.13.40:945][123]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.04.26-23.13.40:945][123]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.04.26-23.13.40:945][123]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2021.04.26-23.13.44:083][321]Cmd: TRANSACTION UNDO
+[2021.04.26-23.13.44:083][321]LogEditorTransaction: Undo Create Actors
+[2021.04.26-23.13.44:099][321]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.45:375][405]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.45:959][444]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.46:861][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.04.26-23.13.46:903][533]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.48:118][533]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.26-23.13.48:125][533]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.48:150][533]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.48:168][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.26-23.13.48:687][584]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (grass_model)
+[2021.04.26-23.13.48:695][584]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.49:360][637]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.49:398][638]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.49:435][639]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.49:628][655]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.49:666][656]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.52:279][895]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.53:126][964]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.54:977][133]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.13.59:338][513]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (grass_model)
+[2021.04.26-23.13.59:348][513]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.14.01:589][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_model)
+[2021.04.26-23.14.01:917][811]Cmd: DELETE
+[2021.04.26-23.14.01:917][811]Cmd: ACTOR DELETE
+[2021.04.26-23.14.01:918][811]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.26-23.14.01:923][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.26-23.14.01:925][811]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.04.26-23.14.02:679][901]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.26-23.14.03:723][ 21]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.04.26-23.14.58:298][958]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.14.58:664][983]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.14.59:672][ 90]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.04.26-23.14.59:684][ 90]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.04.26-23.15.09:441][251]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.15.31:284][456]LogContentBrowser: Attempting asset rename: NewMaterial -> Grass_Material
+[2021.04.26-23.15.31:285][456]LogContentBrowser: End creating deferred item NewMaterial
+[2021.04.26-23.15.33:006][604]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.15.36:748][956]LogContentBrowser: Attempting asset rename: grass_model -> grass_model
+[2021.04.26-23.15.37:175][991]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.15.37:198][991]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/grass_model.grass_model
+[2021.04.26-23.15.37:256][991]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.15.37:977][991]LogRenderer: Reallocating scene render targets to support 1432x960 Format 10 NumSamples 1 (Frame:1).
+[2021.04.26-23.15.37:977][991]LogSlate: Took 0.008438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.26-23.15.40:667][196]LogSlate: Window 'grass_model' being destroyed
+[2021.04.26-23.15.40:678][196]LogSlate: Window 'grass_model' being destroyed
+[2021.04.26-23.15.40:729][196]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.04.26-23.15.40:729][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.26-23.15.42:681][361]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.15.46:084][674]LogHttp: Warning: 0000025805374100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3F6131B5-4663-7BD6-222A-9BA1D7DB1BBE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=e4d902ca4926064dd33197a0b37ccb0a%7Ced7c2f982c364426960aa949a691beb3%7Cba82347d-3b21-4eae-b4d0-6602c52d3eb1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.26-23.15.46:084][674]LogHttp: Warning: 0000025805374100: request failed, libcurl error: 0 (No error)
+[2021.04.26-23.15.46:084][674]LogHttp: Warning: 0000025805374100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x25795bebeb0 [can pipeline])
+[2021.04.26-23.15.46:084][674]LogHttp: Warning: 0000025805374100: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.04.26-23.15.46:084][674]LogHttp: Warning: 0000025805374100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.201.167.150) port 443 (#0))
+[2021.04.26-23.15.46:084][674]LogHttp: Warning: 0000025805374100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.04.26-23.15.46:084][674]LogHttp: Warning: 0000025805374100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021.04.26-23.15.46:084][674]LogHttp: Warning: 0000025805374100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.04.26-23.15.46:084][674]LogHttp: Warning: 0000025805374100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.04.26-23.15.46:084][674]LogHttp: Warning: 0000025805374100: libcurl info message cache 7 (Closing connection 0)
+[2021.04.26-23.15.46:084][674]LogHttp: Warning: 0000025805374100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.04.26-23.15.46:084][674]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3F6131B5-4663-7BD6-222A-9BA1D7DB1BBE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=e4d902ca4926064dd33197a0b37ccb0a%7Ced7c2f982c364426960aa949a691beb3%7Cba82347d-3b21-4eae-b4d0-6602c52d3eb1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.04.26-23.15.48:002][863]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.15.50:260][ 50]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.15.50:645][ 80]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.27:306][158]LogContentBrowser: Attempting asset rename: grass_model -> Grass_Mesh
+[2021.04.26-23.18.27:317][158]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.27:348][158]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.27:374][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grass_Mesh" FILE="../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/Content/Grass_Mesh.uasset" SILENT=true
+[2021.04.26-23.18.27:388][158]LogSavePackage: Moving '../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Grass_Mesh4892BB284B0A7FF31E5EF0B1D1B1B7E0.tmp' to '../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/Content/Grass_Mesh.uasset'
+[2021.04.26-23.18.27:399][158]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.27:414][158]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.27:426][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.04.26-23.18.27:439][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.04.26-23.18.27:443][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.26-23.18.27:467][158]AssetCheck: New page: Asset Save: Grass_Mesh
+[2021.04.26-23.18.27:467][158]LogContentValidation: Display: Validating StaticMesh /Game/Grass_Mesh.Grass_Mesh
+[2021.04.26-23.18.31:977][547]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.32:915][627]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.40:674][333]LogContentBrowser: Attempting asset rename: grass_texture -> Grass_Texture
+[2021.04.26-23.18.40:687][333]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.40:708][333]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.40:721][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/grass_texture" FILE="../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/Content/grass_texture.uasset" SILENT=true
+[2021.04.26-23.18.40:731][333]LogSavePackage: Moving '../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/grass_textureBA2B798B49F3D791BB0173A2EAD5645D.tmp' to '../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/Content/grass_texture.uasset'
+[2021.04.26-23.18.40:743][333]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.40:761][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.04.26-23.18.40:787][333]AssetCheck: New page: Asset Save: Grass_Texture
+[2021.04.26-23.18.40:787][333]LogContentValidation: Display: Validating Texture2D /Game/grass_texture.Grass_Texture
+[2021.04.26-23.18.43:017][529]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.44:905][693]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.46:810][869]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.47:130][892]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.50:171][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.26-23.18.50:223][201]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.51:402][201]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.26-23.18.51:409][201]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.51:434][201]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.51:450][201]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.51:465][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.26-23.18.51:474][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.04.26-23.18.51:477][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.26-23.18.55:148][456]LogLinker: Warning: Failed to load '/Game/grass_texture': Can't find file.
+[2021.04.26-23.18.55:148][456]LogLinker: Warning: Failed to load '/Game/grass_texture': Can't find file.
+[2021.04.26-23.18.55:148][456]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/grass_texture.grass_texture'
+[2021.04.26-23.18.55:158][456]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.56:992][557]LogAssetEditorSubsystem: Error: Opening Asset editor failed because of null asset
+[2021.04.26-23.18.58:324][642]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.18.59:412][693]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.19.04:667][ 17]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.19.31:664][375]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.19.31:685][375]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anahi\Desktop\models\environment\grass\Grass_Texture.png)
+[2021.04.26-23.19.31:692][375]LogTexture: Display: Building textures: Grass_Texture (AutoDXT, 1024X512)
+[2021.04.26-23.19.51:857][839]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.20.00:908][866]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.20.00:935][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.04.26-23.20.00:951][866]LogSavePackage: Moving '../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/level_Auto1CD93CE2047C33AE34FE15D8B2A8374E0.tmp' to '../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Autosaves/Game/Maps/level_Auto1.umap'
+[2021.04.26-23.20.00:952][866]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/level' took 0.021
+[2021.04.26-23.20.00:952][866]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2021.04.26-23.20.00:953][866]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/grass_texture] ([1] browsable assets)...
+[2021.04.26-23.20.00:956][866]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/grass_texture.Grass_Texture]
+[2021.04.26-23.20.00:956][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/grass_texture]
+[2021.04.26-23.20.00:956][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/grass_texture" FILE="../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Autosaves/Game/grass_texture_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.04.26-23.20.00:960][866]LogSavePackage: Moving '../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/grass_texture_Auto1406328634844E65A22B7B884EECDF57F.tmp' to '../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/Saved/Autosaves/Game/grass_texture_Auto1.uasset'
+[2021.04.26-23.20.00:961][866]LogFileHelpers: Auto-saving content packages took 0.008
+[2021.04.26-23.20.06:704][884]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.20.55:905][328]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.20.55:915][328]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Grass_Material.Grass_Material
+[2021.04.26-23.20.55:918][328]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 3 classes and 0 folders.
+[2021.04.26-23.20.55:919][328]LogMaterial: Display: Missing cached shader map for material Grass_Material, compiling. 
+[2021.04.26-23.20.56:026][328]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.20.56:077][328]LogMaterial: Display: Missing cached shader map for material Grass_Material, compiling. 
+[2021.04.26-23.20.56:086][328]LogMaterial: Display: Missing cached shader map for material Grass_Material, compiling. 
+[2021.04.26-23.20.56:100][328]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.04.26-23.20.56:100][328]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.04.26-23.20.56:100][328]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.04.26-23.20.56:100][328]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.04.26-23.20.56:100][328]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.04.26-23.20.56:100][328]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.04.26-23.20.56:100][328]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.04.26-23.20.56:100][328]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.04.26-23.20.56:100][328]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.04.26-23.20.56:125][328]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.26-23.21.00:928][346]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.04.26-23.21.00:928][346]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.04.26-23.21.00:928][346]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.26-23.21.00:928][346]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.26-23.21.09:663][100]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.21.18:328][828]LogMaterial: Display: Missing cached shader map for material Grass_Material, compiling. 
+[2021.04.26-23.21.18:335][828]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.04.26-23.21.18:410][829]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.04.26-23.21.18:410][829]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.04.26-23.21.18:410][829]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.04.26-23.21.18:410][829]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.04.26-23.21.18:410][829]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.04.26-23.21.18:410][829]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.04.26-23.21.18:410][829]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.04.26-23.21.18:410][829]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.04.26-23.21.18:410][829]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.04.26-23.21.19:756][868]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.04.26-23.21.19:756][868]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.04.26-23.21.19:756][868]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.26-23.21.19:756][868]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.26-23.21.22:129][ 55]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.21.24:335][217]LogMaterial: Display: Missing cached shader map for material Grass_Material, compiling. 
+[2021.04.26-23.21.24:345][217]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.04.26-23.21.24:352][217]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.04.26-23.21.24:352][217]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.04.26-23.21.24:352][217]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.04.26-23.21.24:352][217]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.04.26-23.21.24:352][217]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.04.26-23.21.24:352][217]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.04.26-23.21.24:352][217]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.04.26-23.21.24:352][217]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.04.26-23.21.24:352][217]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.04.26-23.21.24:355][217]LogMaterial: Display: Missing cached shader map for material Grass_Material, compiling. 
+[2021.04.26-23.21.24:393][218]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2021.04.26-23.21.24:393][218]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2021.04.26-23.21.24:393][218]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.04.26-23.21.25:444][235]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2021.04.26-23.21.25:444][235]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.04.26-23.21.25:494][236]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2021.04.26-23.21.25:711][240]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2021.04.26-23.21.25:981][245]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.04.26-23.21.26:027][246]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2021.04.26-23.21.26:027][246]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2021.04.26-23.21.26:075][247]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2021.04.26-23.21.26:075][247]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.04.26-23.21.26:155][249]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2021.04.26-23.21.27:159][278]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.04.26-23.21.27:159][278]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.04.26-23.21.27:159][278]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.26-23.21.27:159][278]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.26-23.21.36:121][ 53]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.21.37:210][140]LogMaterial: Display: Missing cached shader map for material Grass_Material, compiling. 
+[2021.04.26-23.21.37:224][140]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.04.26-23.21.37:224][140]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.04.26-23.21.37:224][140]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.04.26-23.21.37:224][140]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.04.26-23.21.37:224][140]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.04.26-23.21.37:224][140]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.04.26-23.21.37:224][140]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.04.26-23.21.37:224][140]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.04.26-23.21.37:224][140]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.04.26-23.21.37:226][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.04.26-23.21.37:280][142]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.04.26-23.21.37:280][142]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.04.26-23.21.37:280][142]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.04.26-23.21.38:458][160]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.04.26-23.21.38:788][173]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.04.26-23.21.38:788][173]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.04.26-23.21.38:788][173]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.04.26-23.21.38:788][173]MaterialEditorStats: Texture samplers: 3/16
+[2021.04.26-23.21.38:788][173]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.04.26-23.21.38:788][173]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.04.26-23.21.47:808][925]LogMaterialEditor: Applying material Grass_Material
+[2021.04.26-23.21.48:429][925]LogMaterial: Display: Missing cached shader map for material Grass_Material, compiling. 
+[2021.04.26-23.21.48:457][925]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.21.48:480][925]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2021.04.26-23.21.48:480][925]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.04.26-23.21.48:480][925]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.04.26-23.21.48:480][925]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.04.26-23.21.48:480][925]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.04.26-23.21.48:480][925]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.04.26-23.21.48:480][925]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.04.26-23.21.48:480][925]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.04.26-23.21.48:480][925]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.04.26-23.21.48:487][925]LogMaterial: Display: Missing cached shader map for material Grass_Material, compiling. 
+[2021.04.26-23.21.48:508][925]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2021.04.26-23.21.48:508][925]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2021.04.26-23.21.48:508][925]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2021.04.26-23.21.48:515][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.04.26-23.21.48:529][925]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.04.26-23.21.49:654][925]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.04.26-23.21.49:654][925]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2021.04.26-23.21.49:654][925]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.04.26-23.21.50:120][925]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2021.04.26-23.21.50:120][925]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.04.26-23.21.50:120][925]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.04.26-23.21.50:120][925]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.04.26-23.21.50:120][925]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.04.26-23.21.50:146][925]TextureStreamingBuild: Display: Compiling optional shaders took 1.625 seconds.
+[2021.04.26-23.21.50:163][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.04.26-23.21.51:118][950]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.04.26-23.21.51:118][950]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.04.26-23.21.51:118][950]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.04.26-23.21.51:118][950]MaterialEditorStats: Texture samplers: 4/16
+[2021.04.26-23.21.51:118][950]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.04.26-23.21.51:118][950]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.04.26-23.21.51:646][988]LogMaterialEditor: Saving and Compiling material Grass_Material
+[2021.04.26-23.21.51:651][988]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.04.26-23.21.51:677][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grass_Material" FILE="../../../../../../Users/anahi/Documents/Unreal Projects/Crossy_Road/Content/Grass_Material.uasset" SILENT=true
+[2021.04.26-23.21.51:678][988]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.04.26-23.21.51:864][988]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.185 s
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: === Handled ensure: ===
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: 
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: Found circular redirect from /Game/grass_texture.Grass_Texture to /Game/Grass_Texture.Grass_Texture! Returning None instead
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: Stack: 
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd30787093 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd30332810 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd3066f236 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd3068834e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd30367cb7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd57195162 UE4Editor-Core.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd3067fcc3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd3057e699 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd304d5896 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd30633ec7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd30634444 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd304d85e3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd304d609c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd304d59ae UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd30633ec7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd305c9175 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd30634444 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd304d85e3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd304d609c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd305c9504 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd305c7af0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd305c755b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd2de2a0c7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd306167d2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd30638a5b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:864][988]LogOutputDevice: Error: [Callstack] 0x00007ffd3061dfec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd1b2d276e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd1b2d325e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd1b30e762 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd1b30b09c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd1bb8cc97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd1b609093 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd1b6079ad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd1b630a50 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd1bbec44c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd1918c3e8 UE4Editor-MaterialEditor.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd1bb9a666 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd36c60098 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd36d4f3a2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd36d2bd67 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd36dc85fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd36de077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd36c246be UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd36ca7f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd36c90367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd36c83642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd6534bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd65339197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd6534e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd65334310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd9e38e858 USER32.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd9e38e299 USER32.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd6534f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ff628678857 UE4Editor.exe!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ff6286911ac UE4Editor.exe!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ff62869128a UE4Editor.exe!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ff6286a52ed UE4Editor.exe!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ff6286a801a UE4Editor.exe!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd9c847034 KERNEL32.DLL!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: [Callstack] 0x00007ffd9e642651 ntdll.dll!UnknownFunction []
+[2021.04.26-23.21.51:865][988]LogOutputDevice: Error: 
